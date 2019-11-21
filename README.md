@@ -31,4 +31,8 @@
 
 **Aula 10 (19/11/2019):**    
     Erros e exceções: definição, operadores *try*, *except*, *raise*, e *finally*.    
-    Computação matemática e científica (numpy): *arrays* (conceito, operações)
+    Computação matemática e científica (Numpy): *arrays* (conceito, operações básicas)
+	
+**Aula 11 (21/11/2019):**    
+    Arrays de Numpy: operações básicas (continuação), broadcasting, indexação e iteração,
+	transposição e concatenação de arrays
