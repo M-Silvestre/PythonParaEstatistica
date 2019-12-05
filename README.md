@@ -44,4 +44,4 @@
     Exercícios de revisão.
 
 **Aula 14 (05/12/2019):**    
-    Exercícios de revisão.
+    [Orientações sobre a prova](https://github.com/tmfilho/python-de/blob/master/provas/1-prova-2019.2.ipynb), Exercícios de revisão.
