@@ -1,6 +1,6 @@
 # PythonEstatistica
 
-## Repositório para códigos das aulas da disciplina Python para Programação Estatística.
+## Repositório destinado para anotações e códigos das aulas da disciplina Python para Programação Estatística.
 
 **Aula 01 (17/10/2019):**    
     Introdução à linguagem de programação Python e suas IDEs.
